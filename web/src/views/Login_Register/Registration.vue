@@ -1,7 +1,7 @@
 <template>
   <div class="min-h-screen flex items-center justify-center bg-black font-adlam">
     <div class="text-center space-y-6">
-      <h1 class="text-white select-none text-9xl font-bold pb-8">ExeCute</h1>
+      <h1 class="text-white select-none text-9xl font-bold pb-8">Execute</h1>
       <div>
         <label class="block text-white select-none text-3xl mb-2">Login</label>
         <input

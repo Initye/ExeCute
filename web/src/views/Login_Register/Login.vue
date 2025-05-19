@@ -3,7 +3,7 @@
         <!-- Text spacer -->
       <div class="text-center space-y-6">
         <!-- Header -->
-        <h1 class="text-white select-none text-9xl font-bold pb-8">ExeCute</h1>
+        <h1 class="text-white select-none text-9xl font-bold pb-8">Execute</h1>
         <!-- Login input -->
         <div>
           <label class="block text-white select-none text-3xl mb-2">Login</label>
