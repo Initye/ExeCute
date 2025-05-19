@@ -13,7 +13,7 @@
       <!-- Header bar -->
       <div class="bg-black pt-5 pb-3 px-8 border-b border-white/50 ">
         <div class="flex items-center">
-          <h1 class="text-5xl font-semibold text-white font-adlam">Execute</h1>
+          <h1 class="text-5xl font-semibold text-white font-adlam">Execste</h1>
         </div>
       </div>
       
